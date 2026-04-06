@@ -29,6 +29,21 @@
    - PowerBI: Visual Customization limitations vs. performance
 
 
+## Key Insights & Findings
+- Failure Rate is High: Over 51% of projects failed.
+- Top Performing Category: Product Design has both volume and success.
+- Goal Impact: Projects with a goal under $10K are 3x more likely to succeed.
+- Location Hotspots: Los Angeles, NY, and London lead in project count.
+- Yearly Trend: Peak project creation between 2014-2016.
+
+## Dashboards:
+- Excel Dashboard:
+- Tableau Dashboard:
+- Power BI Dashboard:
+  <img width="1692" height="827" alt="image" src="https://github.com/user-attachments/assets/1b617cb2-79f9-474e-9eaa-8fca28ff33a6" />
+
+
+
 
 
 
