@@ -38,9 +38,14 @@
 
 ## Dashboards:
 - Excel Dashboard:
+  <img width="1496" height="805" alt="image" src="https://github.com/user-attachments/assets/7e16672f-9d55-43f4-957f-0e73a4ae1b6e" />
 - Tableau Dashboard:
+  <img width="1394" height="719" alt="image" src="https://github.com/user-attachments/assets/5cc158e8-d460-4194-8832-9b4f8c60ec79" />
 - Power BI Dashboard:
-  <img width="1692" height="827" alt="image" src="https://github.com/user-attachments/assets/1b617cb2-79f9-474e-9eaa-8fca28ff33a6" />
+  <img width="1555" height="827" alt="image" src="https://github.com/user-attachments/assets/c28c5978-2ce0-4989-9bb5-802a965d0789" />
+  <img width="1528" height="812" alt="image" src="https://github.com/user-attachments/assets/eeeac702-b905-496a-afa3-1461dd93acc7" />
+  
+
 
 
 
